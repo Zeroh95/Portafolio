@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Great_Wave_off_Kanagawa2.jpg" 
-       alt="Banner" 
-       width="100%" 
-       height="350px" 
-       style="object-fit: cover; object-position: top;">
+![Banner](./assets/kanagawa.jpg)
 [![GitHub followers](https://img.shields.io/github/followers/Zeroh95?style=social)](https://github.com/Zeroh95)
 
 </div>
